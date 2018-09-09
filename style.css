@@ -3,4 +3,9 @@ body
 text-align: center;
 font-family: Verdana;
 text-align: justify;
+color: #444;
+line-height: 1,6;
+max-width: 650px;
+margin: 40px auto;
+
 }
