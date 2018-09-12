@@ -22,3 +22,5 @@ mark { font-family: sans-serif; font-variant: small-caps; background-color: tran
 span {font-size: 16px;}
 a {color: black; }
 a[title="As you wish"] {text-align:right; font-weight:normal;}
+
+table {width: 650px ; text-align: center;}
