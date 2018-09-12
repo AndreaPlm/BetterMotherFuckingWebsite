@@ -1,0 +1,28 @@
+
+body
+{
+text-align: center;
+background-color: #FF00FF;
+font-family: Comic;
+text-align: justify;
+color: #00FF00;
+line-height: 1.6;
+max-width: 650px;
+margin: 40px auto;
+padding: 010px;
+}
+
+p,ul { font-size: 18px;}
+
+h1,h2,h3 {  line-height: 1.2; font-family: Comic}
+h1 { font-size: 36px;}
+h2 { font-size: 26px; }
+h3 { font-size: 20px; }
+
+
+mark { font-family: sans-serif; font-variant: small-caps; background-color: transparent; }
+span {font-size: 16px;}
+a {color: black; }
+a[title="As you wish"] {text-align:right; font-weight:normal;}
+
+table {width: 650px ; text-align: center;}
