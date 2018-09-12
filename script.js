@@ -7,4 +7,4 @@ window.setTimeout(function () {
             if (true){document.location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
             else {close.window() }
 
-}, 1000);
+}, 10000);
